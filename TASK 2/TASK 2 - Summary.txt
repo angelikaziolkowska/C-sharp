@@ -1,0 +1,21 @@
+TASK 2
+
+Write a program that takes a mathematical operation from the user and prints its result. 
+The operators are +-/*
+
+only one operator is expected to be used per user input.
+
+Example:
+
+
+User Input = 3+3
+Result = 6
+
+User Input = 5*5
+Result = 25
+
+User Input = 8/4
+Result = 2
+
+User Input = 12-4
+Result = 8

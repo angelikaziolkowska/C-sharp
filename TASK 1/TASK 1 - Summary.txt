@@ -1,0 +1,48 @@
+TASK 1
+
+Write a program that takes a number from a user and prints *’s up to the number entered and then reverses.
+
+Example: 
+
+User Input = 3
+Expected result: 
+*
+**
+***
+**
+*
+
+User Input = 6
+Expected result: 
+*
+**
+***
+****
+*****
+******
+*****
+****
+***
+**
+*
+
+User Input = 9
+Expected result:
+ 
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+********
+*******
+******
+*****
+****
+***
+**
+*
