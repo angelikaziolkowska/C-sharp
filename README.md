@@ -2,4 +2,4 @@
 my first tasks in c# June 2018
 
 
-Recommend viewing of Task 3 
+Recommend Task 3 viewing
